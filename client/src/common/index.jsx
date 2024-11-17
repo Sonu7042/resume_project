@@ -1,4 +1,5 @@
-const host= 'http://localhost:9000'
+// const host= 'http://localhost:9000'
+const host= "https://resume-project-fawn.vercel.app"
 
 const SummeryApi={
 
